@@ -1,0 +1,11 @@
+name: team2
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - scikit-learn
+prefix: C:\Users\user\anaconda3\envs\team2
